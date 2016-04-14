@@ -1,0 +1,5 @@
+# Other ROS stuff
+CATKIN_IGNORE*
+
+# ROS MoveIt
+default_warehouse_mongo_db/
